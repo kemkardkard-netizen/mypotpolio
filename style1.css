@@ -1,0 +1,18 @@
+ .box {
+    width: 100px ;
+    height: 100px;
+    animation-duration: 200ms;
+ }
+
+ .aqua{
+    background-color: aqua;
+ }
+/*.boxa:hover{
+    background-color: rgb(12, 243, 166);
+ }*/
+
+
+ .box:focus{
+    background-color: black;
+    color: aliceblue;
+ }
